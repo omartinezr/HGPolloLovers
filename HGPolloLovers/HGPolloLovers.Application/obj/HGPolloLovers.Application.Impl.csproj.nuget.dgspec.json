@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application\\HGPolloLovers.Application.Impl.csproj": {}
+  },
+  "projects": {
+    "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application.Contrats\\HGPolloLovers.Application.Contrats.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application.Contrats\\HGPolloLovers.Application.Contrats.csproj",
+        "projectName": "HGPolloLovers.Application.Contrats",
+        "projectPath": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application.Contrats\\HGPolloLovers.Application.Contrats.csproj",
+        "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
+        "outputPath": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application.Contrats\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application\\HGPolloLovers.Application.Impl.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application\\HGPolloLovers.Application.Impl.csproj",
+        "projectName": "HGPolloLovers.Application.Impl",
+        "projectPath": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application\\HGPolloLovers.Application.Impl.csproj",
+        "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
+        "outputPath": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application.Contrats\\HGPolloLovers.Application.Contrats.csproj": {
+                "projectPath": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Application.Contrats\\HGPolloLovers.Application.Contrats.csproj"
+              },
+              "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Domain.Contracts\\HGPolloLovers.Domain.Contracts.csproj": {
+                "projectPath": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Domain.Contracts\\HGPolloLovers.Domain.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Domain.Contracts\\HGPolloLovers.Domain.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Domain.Contracts\\HGPolloLovers.Domain.Contracts.csproj",
+        "projectName": "HGPolloLovers.Domain.Contracts",
+        "projectPath": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Domain.Contracts\\HGPolloLovers.Domain.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Oscar\\.nuget\\packages\\",
+        "outputPath": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Domain.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Oscar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

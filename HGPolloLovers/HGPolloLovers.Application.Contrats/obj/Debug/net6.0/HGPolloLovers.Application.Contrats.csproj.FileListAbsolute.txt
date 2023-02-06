@@ -1,0 +1,12 @@
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\bin\Debug\net6.0\HGPolloLovers.Application.Contrats.deps.json
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\bin\Debug\net6.0\HGPolloLovers.Application.Contrats.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\bin\Debug\net6.0\HGPolloLovers.Application.Contrats.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\obj\Debug\net6.0\HGPolloLovers.Application.Contrats.csproj.AssemblyReference.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\obj\Debug\net6.0\HGPolloLovers.Application.Contrats.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\obj\Debug\net6.0\HGPolloLovers.Application.Contrats.AssemblyInfoInputs.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\obj\Debug\net6.0\HGPolloLovers.Application.Contrats.AssemblyInfo.cs
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\obj\Debug\net6.0\HGPolloLovers.Application.Contrats.csproj.CoreCompileInputs.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\obj\Debug\net6.0\HGPolloLovers.Application.Contrats.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\obj\Debug\net6.0\refint\HGPolloLovers.Application.Contrats.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\obj\Debug\net6.0\HGPolloLovers.Application.Contrats.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application.Contrats\obj\Debug\net6.0\ref\HGPolloLovers.Application.Contrats.dll

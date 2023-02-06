@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aX9wkoX02pBUMIIefcPmSFOzb4SbxvZSCdqOSDII0TWfWy6Z6BjbiASDK8Z+tQxQIsT5vkRvPO6257ewZUsTWA==",
+  "success": true,
+  "projectFilePath": "Z:\\Projects\\HGPolloLoversV1\\HGPolloLovers\\HGPolloLovers.Domain.Impl\\HGPolloLovers.Domain.Impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oscar\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Oscar\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Oscar\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

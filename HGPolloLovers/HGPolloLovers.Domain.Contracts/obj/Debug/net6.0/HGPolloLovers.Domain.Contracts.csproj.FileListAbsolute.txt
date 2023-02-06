@@ -1,0 +1,12 @@
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\bin\Debug\net6.0\HGPolloLovers.Domain.Contracts.deps.json
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\bin\Debug\net6.0\HGPolloLovers.Domain.Contracts.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\bin\Debug\net6.0\HGPolloLovers.Domain.Contracts.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\obj\Debug\net6.0\HGPolloLovers.Domain.Contracts.csproj.AssemblyReference.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\obj\Debug\net6.0\HGPolloLovers.Domain.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\obj\Debug\net6.0\HGPolloLovers.Domain.Contracts.AssemblyInfoInputs.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\obj\Debug\net6.0\HGPolloLovers.Domain.Contracts.AssemblyInfo.cs
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\obj\Debug\net6.0\HGPolloLovers.Domain.Contracts.csproj.CoreCompileInputs.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\obj\Debug\net6.0\HGPolloLovers.Domain.Contracts.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\obj\Debug\net6.0\refint\HGPolloLovers.Domain.Contracts.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\obj\Debug\net6.0\HGPolloLovers.Domain.Contracts.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Domain.Contracts\obj\Debug\net6.0\ref\HGPolloLovers.Domain.Contracts.dll

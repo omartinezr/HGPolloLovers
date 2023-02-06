@@ -1,0 +1,17 @@
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\bin\Debug\net6.0\HGPolloLovers.Application.Impl.deps.json
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\bin\Debug\net6.0\HGPolloLovers.Application.Impl.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\bin\Debug\net6.0\HGPolloLovers.Application.Impl.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\bin\Debug\net6.0\HGPolloLovers.Application.Contrats.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\bin\Debug\net6.0\HGPolloLovers.Application.Contrats.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\HGPolloLovers.Application.Impl.csproj.AssemblyReference.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\HGPolloLovers.Application.Impl.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\HGPolloLovers.Application.Impl.AssemblyInfoInputs.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\HGPolloLovers.Application.Impl.AssemblyInfo.cs
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\HGPolloLovers.Application.Impl.csproj.CoreCompileInputs.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\HGPolloLovers.Application.Impl.csproj.CopyComplete
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\HGPolloLovers.Application.Impl.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\refint\HGPolloLovers.Application.Impl.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\HGPolloLovers.Application.Impl.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\obj\Debug\net6.0\ref\HGPolloLovers.Application.Impl.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\bin\Debug\net6.0\HGPolloLovers.Domain.Contracts.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Application\bin\Debug\net6.0\HGPolloLovers.Domain.Contracts.pdb

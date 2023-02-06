@@ -1,0 +1,15 @@
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\bin\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.deps.json
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\bin\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\bin\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\bin\Debug\net6.0\HGPolloLovers.Domain.Contracts.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\bin\Debug\net6.0\HGPolloLovers.Domain.Contracts.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.csproj.AssemblyReference.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.AssemblyInfoInputs.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.AssemblyInfo.cs
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.csproj.CoreCompileInputs.cache
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.csproj.CopyComplete
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\refint\HGPolloLovers.Infrastructure.Utils.dll
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\HGPolloLovers.Infrastructure.Utils.pdb
+Z:\Projects\HGPolloLovers\HGPolloLovers\HGPolloLovers.Infrastructure.Utils\obj\Debug\net6.0\ref\HGPolloLovers.Infrastructure.Utils.dll

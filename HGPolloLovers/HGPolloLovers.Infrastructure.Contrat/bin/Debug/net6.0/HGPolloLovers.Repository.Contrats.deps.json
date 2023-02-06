@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HGPolloLovers.Repository.Contrats/1.0.0": {
+        "dependencies": {
+          "HGPolloLovers.Domain.Contracts": "1.0.0"
+        },
+        "runtime": {
+          "HGPolloLovers.Repository.Contrats.dll": {}
+        }
+      },
+      "HGPolloLovers.Domain.Contracts/1.0.0": {
+        "runtime": {
+          "HGPolloLovers.Domain.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HGPolloLovers.Repository.Contrats/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HGPolloLovers.Domain.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

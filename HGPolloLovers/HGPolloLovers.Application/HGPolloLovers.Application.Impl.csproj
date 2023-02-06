@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HGPolloLovers.Application.Contrats\HGPolloLovers.Application.Contrats.csproj" />
+    <ProjectReference Include="..\HGPolloLovers.Domain.Contracts\HGPolloLovers.Domain.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
